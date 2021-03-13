@@ -13,7 +13,7 @@ namespace Teamwork
             Console.WriteLine("Escriba un numero: "); //*Solicitando el segundo dato para poder operarlo*//
             y = Convert.ToInt32(Console.ReadLine()); //*Reconociendo el dato numero 2*//
 
-            Console.WriteLine($"Sumando los valores de {x} * {y}"); //*Reaalizando el procedimiento*//
+            Console.WriteLine($"Multiplicando los valores de {x} * {y}"); //*Reaalizando el procedimiento*//
             Console.WriteLine($"El resultado del producto es:  {mult(x,y)}"); //*Mostrar el resultado que obtuvimos*//
 
 
