@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\bin\Debug\net5.0\Teamwork.exe
 C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\bin\Debug\net5.0\Teamwork.deps.json
 C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\bin\Debug\net5.0\Teamwork.runtimeconfig.json
@@ -14,3 +15,21 @@ C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\obj\Deb
 C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\obj\Debug\net5.0\ref\Teamwork.dll
 C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\obj\Debug\net5.0\Teamwork.pdb
 C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\obj\Debug\net5.0\Teamwork.genruntimeconfig.cache
+=======
+C:\Users\adama\OneDrive\Documentos\LasNenis_POO0121\LasNenis01\LasNenis_POO012021\Teamwork\bin\Debug\net5.0\Teamwork.exe
+C:\Users\adama\OneDrive\Documentos\LasNenis_POO0121\LasNenis01\LasNenis_POO012021\Teamwork\bin\Debug\net5.0\Teamwork.deps.json
+C:\Users\adama\OneDrive\Documentos\LasNenis_POO0121\LasNenis01\LasNenis_POO012021\Teamwork\bin\Debug\net5.0\Teamwork.runtimeconfig.json
+C:\Users\adama\OneDrive\Documentos\LasNenis_POO0121\LasNenis01\LasNenis_POO012021\Teamwork\bin\Debug\net5.0\Teamwork.runtimeconfig.dev.json
+C:\Users\adama\OneDrive\Documentos\LasNenis_POO0121\LasNenis01\LasNenis_POO012021\Teamwork\bin\Debug\net5.0\Teamwork.dll
+C:\Users\adama\OneDrive\Documentos\LasNenis_POO0121\LasNenis01\LasNenis_POO012021\Teamwork\bin\Debug\net5.0\ref\Teamwork.dll
+C:\Users\adama\OneDrive\Documentos\LasNenis_POO0121\LasNenis01\LasNenis_POO012021\Teamwork\bin\Debug\net5.0\Teamwork.pdb
+C:\Users\adama\OneDrive\Documentos\LasNenis_POO0121\LasNenis01\LasNenis_POO012021\Teamwork\obj\Debug\net5.0\Teamwork.csprojAssemblyReference.cache
+C:\Users\adama\OneDrive\Documentos\LasNenis_POO0121\LasNenis01\LasNenis_POO012021\Teamwork\obj\Debug\net5.0\Teamwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adama\OneDrive\Documentos\LasNenis_POO0121\LasNenis01\LasNenis_POO012021\Teamwork\obj\Debug\net5.0\Teamwork.AssemblyInfoInputs.cache
+C:\Users\adama\OneDrive\Documentos\LasNenis_POO0121\LasNenis01\LasNenis_POO012021\Teamwork\obj\Debug\net5.0\Teamwork.AssemblyInfo.cs
+C:\Users\adama\OneDrive\Documentos\LasNenis_POO0121\LasNenis01\LasNenis_POO012021\Teamwork\obj\Debug\net5.0\Teamwork.csproj.CoreCompileInputs.cache
+C:\Users\adama\OneDrive\Documentos\LasNenis_POO0121\LasNenis01\LasNenis_POO012021\Teamwork\obj\Debug\net5.0\Teamwork.dll
+C:\Users\adama\OneDrive\Documentos\LasNenis_POO0121\LasNenis01\LasNenis_POO012021\Teamwork\obj\Debug\net5.0\ref\Teamwork.dll
+C:\Users\adama\OneDrive\Documentos\LasNenis_POO0121\LasNenis01\LasNenis_POO012021\Teamwork\obj\Debug\net5.0\Teamwork.pdb
+C:\Users\adama\OneDrive\Documentos\LasNenis_POO0121\LasNenis01\LasNenis_POO012021\Teamwork\obj\Debug\net5.0\Teamwork.genruntimeconfig.cache
+>>>>>>> 38d603bb31ddd8b89ccaecf0af00eb7b754ee20c
