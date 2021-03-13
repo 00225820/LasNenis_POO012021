@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Francisco\\.nuget\\packages\\": {}
+    "C:\\Users\\adama\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Francisco\\Documents\\documentos\\POO_GITHUB\\LAS_NENIS_01\\Teamwork\\Teamwork.csproj",
+      "projectUniqueName": "C:\\Users\\adama\\OneDrive\\Documentos\\LasNenis_POO0121\\LasNenis01\\LasNenis_POO012021\\Teamwork\\Teamwork.csproj",
       "projectName": "Teamwork",
-      "projectPath": "C:\\Users\\Francisco\\Documents\\documentos\\POO_GITHUB\\LAS_NENIS_01\\Teamwork\\Teamwork.csproj",
-      "packagesPath": "C:\\Users\\Francisco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Francisco\\Documents\\documentos\\POO_GITHUB\\LAS_NENIS_01\\Teamwork\\obj\\",
+      "projectPath": "C:\\Users\\adama\\OneDrive\\Documentos\\LasNenis_POO0121\\LasNenis01\\LasNenis_POO012021\\Teamwork\\Teamwork.csproj",
+      "packagesPath": "C:\\Users\\adama\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\adama\\OneDrive\\Documentos\\LasNenis_POO0121\\LasNenis01\\LasNenis_POO012021\\Teamwork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Francisco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\adama\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
