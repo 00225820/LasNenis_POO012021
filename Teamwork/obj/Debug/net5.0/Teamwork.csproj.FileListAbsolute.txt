@@ -1,0 +1,16 @@
+C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\bin\Debug\net5.0\Teamwork.exe
+C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\bin\Debug\net5.0\Teamwork.deps.json
+C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\bin\Debug\net5.0\Teamwork.runtimeconfig.json
+C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\bin\Debug\net5.0\Teamwork.runtimeconfig.dev.json
+C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\bin\Debug\net5.0\Teamwork.dll
+C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\bin\Debug\net5.0\ref\Teamwork.dll
+C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\bin\Debug\net5.0\Teamwork.pdb
+C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\obj\Debug\net5.0\Teamwork.csprojAssemblyReference.cache
+C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\obj\Debug\net5.0\Teamwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\obj\Debug\net5.0\Teamwork.AssemblyInfoInputs.cache
+C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\obj\Debug\net5.0\Teamwork.AssemblyInfo.cs
+C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\obj\Debug\net5.0\Teamwork.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\obj\Debug\net5.0\Teamwork.dll
+C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\obj\Debug\net5.0\ref\Teamwork.dll
+C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\obj\Debug\net5.0\Teamwork.pdb
+C:\Users\Francisco\Documents\documentos\POO_GITHUB\LAS_NENIS_01\Teamwork\obj\Debug\net5.0\Teamwork.genruntimeconfig.cache

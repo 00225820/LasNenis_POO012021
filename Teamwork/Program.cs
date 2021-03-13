@@ -13,15 +13,15 @@ namespace Teamwork
             Console.WriteLine("Escriba un numero: "); //*Solicitando el segundo dato para poder operarlo*//
             y = Convert.ToInt32(Console.ReadLine()); //*Reconociendo el dato numero 2*//
 
-            Console.WriteLine($"Sumando los valores de {x} + {y}"); //*Reaalizando el procedimiento*//
-            Console.WriteLine($"El resultado de la suma es:  {adding(x,y)}"); //*Mostrar el resultado que obtuvimos*//
+            Console.WriteLine($"Sumando los valores de {x} * {y}"); //*Reaalizando el procedimiento*//
+            Console.WriteLine($"El resultado del producto es:  {mult(x,y)}"); //*Mostrar el resultado que obtuvimos*//
 
 
         }
 
-        public static int adding(int x, int y) //*Funcion para poder operar los datos obtenidos del usuario*//
+        public static int mult(int x, int y) //*Funcion para poder operar los datos obtenidos del usuario*//
         {
-            return x + y; //*Retorna el valor de la operacion*//
+            return (x) * (y); //*Retorna el valor de la operacion*// 
         }
 
     }
